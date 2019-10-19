@@ -1,3 +1,5 @@
+## NOTE: This is not the original. This is my (https://github.com/jjwatt) personal fork with added code and solutions in it. Please see the original at https://github.com/donnemartin/interactive-coding-challenges
+
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/interactive-coding-challenges/master/images/cover_challenge.gif">
